@@ -332,3 +332,4 @@ class ModulatedDeformConvPack2(ModulatedDeformConv):
         return modulated_deform_conv(x, offset, mask, self.weight, self.bias, self.stride,
                                      self.padding, self.dilation, self.groups,
                                      self.deformable_groups)
+    
