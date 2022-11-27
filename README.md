@@ -7,6 +7,7 @@ Pytorch Implementation of "Reference-based Dual-Task Framework for Motion Deblur
 ## TODO
 - [x] Dependencies
 - [ ] Add results of test set
+- [ ] Add datasets
 - [ ] Add codes
 - [ ] Add pretrained model
 - [ ] Getting Started
