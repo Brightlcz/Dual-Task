@@ -4,7 +4,14 @@ by Cunzhe Liu, Zhen Hua, Jinjiang Li.
 Pytorch Implementation of "Reference-based Dual-Task Framework for Motion Deblurring"
 ![Overview of Framework](./docs/dusk.png)
 
-## Dependency
+## TODO
+- [x] Dependencies
+- [ ] Add results of test set
+- [ ] Add codes
+- [ ] Add pretrained model
+- [ ] Getting Started
+
+## Dependencies
 This code is based on PyTorch 1.1 and CUDA 10.0. It has been tested on Ubuntu 18.04 LTS, where the machine is equipped with NVIDIA Titan RTX GPUs.
 We use Anaconda to set up the environment. Researchers can set up a new environment simply by:
 
@@ -28,10 +35,6 @@ cd dcn
 rm -rf build
 python setup.py build develop
 ```
-## TODO
-- [ ] Add results of test set
-- [ ] Add source codes
-- [ ] Add pretrained model
 
 ## Results of test set
 The deblurring results of Dual-Task on GrPro test set:
