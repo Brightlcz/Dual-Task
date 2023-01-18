@@ -40,4 +40,4 @@ python setup.py build develop
 ## Results of test set
 The deblurring results of Dual-Task on GrPro test set:
 
-The deblurring results of Dual-Task on HIDE test set: https://drive.google.com/file/d/1Q8AKtcmHPP1R29jOITKIEP-M-1U5yBiy/view?usp=share_link
+The deblurring results of Dual-Task on HIDE test set：
