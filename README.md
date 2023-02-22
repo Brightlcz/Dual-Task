@@ -2,7 +2,6 @@
 by Cunzhe Liu, Zhen Hua, Jinjiang Li.
 
 Pytorch Implementation of "Reference-based Dual-Task Framework for Motion Deblurring"
-![Overview of Framework]
 
 ## TODO
 - [x] Dependencies
